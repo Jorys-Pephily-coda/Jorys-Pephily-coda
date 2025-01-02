@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jorys.p972@gmail.com**
 
-- ⚡ Fun fact **Domain Expantion : I forgot 💀**
+/*- ⚡ Fun fact **Domain Expantion : I forgot 💀**/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
