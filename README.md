@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorys-pephily-coda" alt="jorys-pephily-coda" /></a> </p>
 
-- 🔭 I’m currently working on **A portofolio**
+- 🔭 I have a **<a href="https://jorys-pephily-coda.github.io/Portfolio/"> Portofolio </a>**
 
 - 🌱 I’m currently learning **Php, JavaScript, Java and More are comming**
 
